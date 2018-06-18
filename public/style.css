@@ -53,17 +53,3 @@ body{
 strong{
     text-transform: capitalize;
 }
-.output{
-    width: auto;
-    background: #3b5998;
-    color: #ddd;
-    border-top-left-radius: 0;
-    border-top-right-radius: 20px;
-    border-bottom-left-radius: 20px;
-    border-bottom-right-radius: 20px;
-    border: 0;
-    padding: 10px;
-    display: block;
-    margin-top: 5px;
-    display: none;
-}
