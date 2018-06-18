@@ -4,25 +4,25 @@
 
 **As per the dependencies of this app, its super simple:**
 
-### Remember you need Node for this to work, head to Nodejs.org or click the link in the description [nodejs.org](http://www.nodejs.org), download and install Node.
+### Remember you need Node for this to work, head to Nodejs.org or click the link in the description [nodejs.org](https://www.nodejs.org), download and install Node.
 
-## After cloning this repository into your project folder, just open up your favorite commandline inside of your project folder and get ready to **explore**.
+## After cloning this repository into your project folder, just open up your favorite commandline inside of your project folder
+**ready to explore!!**.
 
 **As per the app dependecies, you need:**
 * express
 * socket.io.
-`<p>
-~~but you don't have to worry, just with simple:~~
-</p>`
+`but you don't have to worry, just with simple:`
 
 ```BASH
  npm install
 ```
 
-`<p> will get the whole job done for you.`**And now that you are ready run**
+` will get the whole job done for you.`
+**And now that you are ready run!**
 
 ````BASH
 npm start
-```
-`<p> To start up the server on your localhost @port: 3000 </p>`
+
+`<p>To start up the server on your localhost @port: 3000 </p>`
 
