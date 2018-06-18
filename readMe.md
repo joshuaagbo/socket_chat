@@ -3,7 +3,7 @@
 
 **As per the dependencies of this app, its super simple:**
 
-### Remember you need Node for this to work, head to Nodejs.org or click the link in the description [nodejs.org](https://www.nodejs.org), download and install Node.
+### Remember you need Node for this to work, head to Nodejs.org or click the link in the description [Nodejs.org](https://www.nodejs.org), download and install Node.
 
 ### After cloning this repository into your project folder, just open up your favorite commandline inside of your project folder
 **ready to explore!!**.
@@ -23,7 +23,7 @@
 npm start
 ```
 
-`<p>To start up the server on your localhost @port: 3000 </p>`
+To start up the server on your localhost @port: 3000
 that is all for **now!!**
 
 
