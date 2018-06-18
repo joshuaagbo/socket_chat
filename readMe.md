@@ -4,14 +4,16 @@
 
 **As per the dependencies of this app, its super simple:**
 
-### Remember you need Node for this to work, head to Nodejs.org or click the link in the description [nodejs.org](http://www.nodejs.org/download), download and install Node.
+### Remember you need Node for this to work, head to Nodejs.org or click the link in the description [nodejs.org](http://www.nodejs.org), download and install Node.
 
 ## After cloning this repository into your project folder, just open up your favorite commandline inside of your project folder and get ready to **explore**.
 
-`**As per the app dependecies, you need:**`
+**As per the app dependecies, you need:**
 * express
 * socket.io.
-`<p>~~but you don't have to worry, just with simple:**</p>`
+`<p>
+~~but you don't have to worry, just with simple:~~
+</p>`
 
 ```BASH
  npm install
