@@ -19,10 +19,10 @@
 
 `will get the whole job done for you.`
 **And now that you are ready run!**
-````BASH
+```BASH
 npm start
 ```
 
-`<p> To start up the server on your localhost @port: 3000 </p>`
+`<p>To start up the server on your localhost @port: 3000 </p>`
 `<p>that is all for **now!!**</p>`
 
